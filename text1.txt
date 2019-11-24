@@ -1,4 +1,8 @@
 asddffg
 asdf
 
+<<<<<<< HEAD
 iy grane 1
+=======
+dodato iz garana_2
+>>>>>>> grana_2
